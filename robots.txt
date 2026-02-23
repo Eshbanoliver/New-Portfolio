@@ -1,0 +1,15 @@
+# robots.txt for Eshban Oliver Portfolio
+# https://eshban.netlify.app
+
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://eshban.netlify.app/sitemap.xml
+
+# Crawl-delay (optional, be polite to smaller servers)
+Crawl-delay: 1
+
+# Disallow any admin or private directories (none currently, but future-proofing)
+# Disallow: /admin/
+# Disallow: /private/
